@@ -1,0 +1,18 @@
+{
+    "sirkler": [
+                {"x": 20, "y": 20, "radius": 10, "farge": "red"},
+                {"x": 20, "y": 20, "radius": 10, "farge": "red"},
+                {"x": 20, "y": 20, "radius": 10, "farge": "red"},
+                {"x": 20, "y": 20, "radius": 10, "farge": "red"},
+                {"x": 20, "y": 20, "radius": 10, "farge": "red"}
+
+    ],
+    "firkanter":[
+               {"bredde": 10, "hoyde": 5, "x": 20,"y": 20, "farge": "blue"},
+               {"bredde": 15, "hoyde": 10, "x": 20,"y": 20, "farge": "yellow"},
+               {"bredde": 20, "hoyde": 20, "x": 20,"y": 20, "farge": "red"},
+               {"bredde": 20, "hoyde": 10, "x": 20,"y": 20, "farge": "pink"},
+               {"bredde": 10, "hoyde": 5, "x": 20,"y": 20, "farge": "green"}
+    ]
+
+}
